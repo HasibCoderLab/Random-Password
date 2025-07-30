@@ -45,9 +45,6 @@ A clean and user-friendly **Password Generator** web app built using **HTML, CSS
 
 ---
 
-
----
-
 ## 📂 Project Structure
 
 ```
