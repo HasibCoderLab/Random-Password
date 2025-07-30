@@ -31,19 +31,20 @@ A clean and user-friendly **Password Generator** web app built using **HTML, CSS
 ## 📸 Screenshot
 
 ![Password Generator Screenshot](Assets/Screenshot-1.jpeg) 
+
 --- 
-⬇️        --- ---     ⬇️   --- --- ---      ⬇️
+## 🔧 How to Use
+
+1. Enter the desired password length in the input field.
+2. Click on the **"Generate Password"** button.
+3. Your randomly generated password will appear in the output box.
+
 
 ---
 ![Password Generator Screenshot](Assets/Screenshot-2.jpeg) 
 
 ---
 
-## 🔧 How to Use
-
-1. Enter the desired password length in the input field.
-2. Click on the **"Generate Password"** button.
-3. Your randomly generated password will appear in the output box.
 
 ---
 
