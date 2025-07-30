@@ -32,14 +32,11 @@ A clean and user-friendly **Password Generator** web app built using **HTML, CSS
 
 ![Password Generator Screenshot](Assets/Screenshot-1.jpeg) 
 --- 
-⬇️                                ⬇️                      ⬇️
+⬇️        --- ---     ⬇️   --- --- ---      ⬇️
 
 ---
 ![Password Generator Screenshot](Assets/Screenshot-2.jpeg) 
 
-⬇️                                ⬇️                      ⬇️
-
----
 ---
 
 ## 🔧 How to Use
