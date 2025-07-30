@@ -48,10 +48,17 @@ A clean and user-friendly **Password Generator** web app built using **HTML, CSS
 ## 📂 Project Structure
 
 ```
-📁 password-generator
+📁 Password-Generator/
+│
 ├── index.html
 ├── style.css
-└── script.js
+├── script.js
+├── Assets/
+│   └── icon.jpeg
+|   └── Screenshot-1.jpeg
+|   └──  Screenshot-2.jpeg
+├── README.md
+
 ```
 
 ---
