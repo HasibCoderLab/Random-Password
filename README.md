@@ -30,7 +30,7 @@ A clean and user-friendly **Password Generator** web app built using **HTML, CSS
 
 ## 📸 Screenshot
 
-<!-- ![Password Generator Screenshot](screenshot.png) *(Add screenshot image if available)* -->
+![Password Generator Screenshot](Assets/Screenshot-1.jpeg) 
 
 ---
 
